@@ -1,0 +1,12 @@
+{
+  "question": "What is the capital of France?",
+  "answer": "The capital of France is Paris.",
+  "ground_truth": "Paris is the capital of France.",
+  "context": "France is a country in Europe.",
+  "type": "C",
+  "criteria": [
+    "Accuracy",
+    "Completeness"
+  ],
+  "model": 1202
+}

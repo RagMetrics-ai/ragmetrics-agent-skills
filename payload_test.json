@@ -1,0 +1,11 @@
+{
+  "question": "Which is the capital of france?",
+  "answer": "Madird",
+  "ground_truth": "Paris",
+  "context": "Paris",
+  "type": "C",
+  "criteria": [
+    "Accuracy"
+  ],
+  "model": 1202
+}
